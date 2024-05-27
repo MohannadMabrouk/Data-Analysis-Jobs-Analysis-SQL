@@ -21,4 +21,4 @@ GROUP BY
     skills  
 ORDER BY
     salary_avg DESC
-LIMIT 25   
+LIMIT 25;   
